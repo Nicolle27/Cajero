@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(115, 229, 229);
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 800px;
+    height: 730px;
+    margin-top: 6px;
+
+}
+.text1{
+    margin-left: -25px;
+    margin-top: 15px;
+}
+
+.img2{
+    width: 800px;
+    height: 730px;
+    margin-top: 6px;
+   
+}
+
+.img3{
+    width: 800px;
+    height: 730px;
+    margin-top: 6px;
+}
+.contraseña{
+    size: 200px;
+    margin-left: 100px; 
+    margin-top: -400px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
+.password{
+    width: 400px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.pass{
+    color: rgb(39, 38, 38);
+    margin-left: 100px;
+    size: 50px;
+    margin-top: -150px; 
+  
+}
+
+.boton {
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    font-size: 17px;
+    margin-top: 350px;
+    margin-left: -450px;
+   
+}
+
+.boton1 {
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    margin-left: -450px;
+    margin-bottom: 200px;
+    margin-top: 250px;
+    background-color: rgb(255, 255, 255);
+    font-size: 17px;
+    
+}
+
+.boton2 {
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    margin-left: -680px;
+    margin-bottom: 200px;
+    margin-top: 248px;
+    background-color: rgb(255, 255, 255);
+    font-size: 17px;
+    
+}
+
+.boton3 {
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    margin-left: -675px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    margin-left: 120px;
+    margin-top: -390px;
+    font-size: 17px;
+}
+
+h4 {
+    color: rgb(75, 75, 75);
+    font-size: 30px;
+    position: absolute;
+    left: 415px;
+    top: 100px;
+    margin-left: 75px;
+    
+}
+.container2{
+    display: none;
+}
+
+
